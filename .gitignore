@@ -1,2 +1,4 @@
 # hide executables
 **/bin
+**/.exe
+**/.out
