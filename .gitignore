@@ -1,4 +1,7 @@
 # hide executables
-**/bin
-**/.exe
-**/.out
+*.exe
+*.out
+
+# remove .DS_Store
+
+.DS_Store
